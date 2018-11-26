@@ -2,9 +2,9 @@ Sklēns mācās
 2 + 2 = 3
 Laps krīt
 2 * 3 = 5
-Ārā ir augsts
-5 - 1 = 9
-Sns rej
+Ārā ir auksts
+5 - 1 = 4
+Suns vaukšķna
 2 * 2 + 2 = 8
 Kaķs guļ
 36 / 2 = 12
