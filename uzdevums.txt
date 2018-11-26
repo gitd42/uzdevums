@@ -1,6 +1,6 @@
-Sklēns mācās
-2 + 2 = 3
-Laps krīt
+Skolēns mācās
+2 + 2 = 4
+Lapas krīt
 2 * 3 = 5
 Ārā ir augsts
 5 - 1 = 9
